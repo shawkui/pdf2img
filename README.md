@@ -61,6 +61,7 @@ After installing the required dependencies, run the Python script:
 ```sh
 python pdf2img.py
 ```
+* We also provide a QT version named `pdf2img_qt.py` based on PyQt5 with better interface. Install its dependency by ``` pip install pyqt5 ```.
 
 ### Usage
 
