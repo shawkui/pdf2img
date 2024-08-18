@@ -45,7 +45,7 @@ pip install Pillow
 After installing the required dependencies, run the Python script:
 
 ```sh
-python pdf_to_image_converter.py
+python pdf2img.py
 ```
 
 ### Precompiled EXE for Windows Users
