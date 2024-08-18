@@ -58,6 +58,7 @@ pip install Pillow
 ```sh
 python pdf2img.py
 ```
+* 我们也实现了基于PyQT5的`pdf2img_qt.py`，提供了更好的交互页面。其依赖项可通过 ``` pip install pyqt5 ```进行安装.
 
 ### 使用说明
 
