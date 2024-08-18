@@ -37,8 +37,8 @@ brew install poppler
 #### 针对 Windows 用户的预编译 EXE 文件
 
 我们也为 Windows 用户提供了一个预编译的 EXE 文件：
-- 直接下载 EXE 文件 [这里](https://drive.google.com/file/d/1a6P84F-qvyc2v5DeCmNcuTUUY9fTaJpF/view?usp=sharing)
-- 使用自行安装的 pdftocairo 运行 EXE 文件 [这里](https://drive.google.com/file/d/1qtZq3WzbLR9wW_WrQMY2Z5A6QcnTlDUq/view?usp=sharing)
+- 直接下载 ZIP 文件 [这里](https://github.com/shawkui/pdf2img/releases/download/pdf-to-image/pdf2img_v1.0.0.zip)
+- 使用自行安装的 pdftocairo 运行 EXE 文件 [这里](https://github.com/shawkui/pdf2img/releases/download/pdf-to-image/pdf2img_v1.0.0.exe)
 
 #### 使用 Python 运行
 
