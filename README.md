@@ -1,8 +1,6 @@
-Here's an optimized version of the README file, including a toggle for a Chinese translation. I've added a section at the top to switch between English and Chinese versions:
-
 # PDF to Image Converter
 
-## 选择语言 / Select Language
+## Select Language / 选择语言
 - [English](./README.md)
 - [简体中文](./README_CN.md)
 
