@@ -2,6 +2,11 @@
 
 这是一个简单的图形界面应用程序，旨在使用 `pdftocairo` 将 PDF 文档转换为多种图像格式，如 "png"、"jpeg"、"tiff"、"pdf"、"ps"、"eps"、"SVG"。它提供了调整转换设置的选项，例如分辨率、缩放和裁剪等。
 
+## 选择语言 / Select Language
+- [English](./README.md)
+- [简体中文](./README_CN.md)
+
+
 ### 界面
 
 ![GUI](./gui.png)
