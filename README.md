@@ -4,7 +4,7 @@ This is a simple GUI application designed to convert PDF documents into various 
 
 ## Interface
 
-[GUI](gui.png)
+![GUI](./gui.png)
 
 ## Installation
 
