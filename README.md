@@ -3,8 +3,8 @@ Here's an optimized version of the README file, including a toggle for a Chinese
 # PDF to Image Converter
 
 ## 选择语言 / Select Language
-- [English](./README_CN.md)
-- [简体中文](./README.md)
+- [English](./README.md)
+- [简体中文](./README_CN.md)
 
 ---
 
