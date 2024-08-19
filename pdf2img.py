@@ -162,6 +162,8 @@ root = tk.Tk()
 root.title("PDF to Image Converter")
 try:
     root.iconbitmap('icon.ico')
+except:
+    pass
 
 # Use ttk styles
 style = ttk.Style()
