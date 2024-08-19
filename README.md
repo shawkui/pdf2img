@@ -40,8 +40,8 @@ brew install poppler
 #### Precompiled EXE for Windows Users
 
 We also provide a precompiled EXE file for Windows users:
-- Run directly by downloading the zip file [here](https://github.com/shawkui/pdf2img/releases/download/pdf-to-image/pdf2img_v1.0.0.zip)
-- Run with self-installed pdftocairo by downloading the EXE file [here](https://github.com/shawkui/pdf2img/releases/download/pdf-to-image/pdf2img_v1.0.0.exe)
+- Run directly by downloading the zip file [here](https://github.com/shawkui/pdf2img/releases/download/pdf-to-image/pdf2img_v1.0.1.zip) or QT version [here](https://github.com/shawkui/pdf2img/releases/download/pdf-to-image/pdf2img_qt_v1.0.1.zip)
+- Run with self-installed pdftocairo by downloading the EXE file [here](https://github.com/shawkui/pdf2img/releases/download/pdf-to-image/pdf2img_v1.0.1.exe) or QT version [here](https://github.com/shawkui/pdf2img/releases/download/pdf-to-image/pdf2img_qt_v1.0.1.exe)
 
 #### Run with Python
 
