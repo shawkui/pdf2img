@@ -160,7 +160,8 @@ def show_help():
 # Create the main window
 root = tk.Tk()
 root.title("PDF to Image Converter")
-# root.iconbitmap('30787845.ico')
+try:
+    root.iconbitmap('icon.ico')
 
 # Use ttk styles
 style = ttk.Style()
