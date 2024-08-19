@@ -56,6 +56,8 @@ class PDFConverterApp(QMainWindow):
         self.setWindowTitle('PDF to Image Converter')
         try:
             self.setWindowIcon(QIcon('icon.ico'))
+        except:
+            pass
         if platform.system()=='Windows':
             import ctypes
             ctypes.windll.shell32.SetCurrentProcessExplicitAppUserModelID("myappid")
